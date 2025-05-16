@@ -1,0 +1,12 @@
+[package]
+name = "Rocket100DAO"
+version = "0.1.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+
+[addresses]
+rocket100_dao = "0x40e690b806284656dcf6e101039e89fddc12541fa5c18e893b9266ac0dc2c166"
+rocket_token = "0x543d8eee91b4cca80c8878db5a37497efd73a56ac516a936dccfbed7d14ff989"
+std = "0x1"
+aptos_framework = "0x1"

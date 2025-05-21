@@ -1,6 +1,3 @@
-# TR100_DAO
-rocket100 Testnet DAO 
-
 # Rocket100 DAO - Dezentrales Voting-System mit Token-Locking
 
 ## Übersicht
